@@ -1,0 +1,18 @@
+Peluche Pokemon,12000,612
+Celular,100000,1020
+Manga Shonen,10000,460
+Linterna lunar,15000,23
+Libro "Cien AÃ±os de Soledad",4000,100
+Manga Demon Slayer,13000,731
+Piercing,2000,211
+Gorro de paja,9800,102
+Manga Yaoi,5600,24
+Juguetes para Conejos,5000,51
+Barra de pesas,30000,11
+Juguetes para gatos (SNK),7000,34
+Pelota futbol,2110,4
+Collar maritimo,910,4
+Botella para Gym,12000,194
+CD aurora,20000,28
+Poleras Humanimals,6400,1011
+Torreta automatica,17000,129
